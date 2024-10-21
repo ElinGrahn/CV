@@ -1,0 +1,56 @@
+body {
+    padding: 25px 100px 75px 100px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+img {
+    height: 180px;
+    width: 180px;
+    padding-right: 150px;
+    padding-left: 25px;
+}
+
+.info {
+    display: flex;
+}
+
+.personlig-text {
+    display: flex;
+    justify-content: center;
+}
+
+.samanfattning {
+    border-style: solid;
+    border-color: #CECECE;
+    height: 100px;
+    width: 790px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.beskrivning {
+    display: flex;
+}
+
+.arbete {
+    padding-right: 99px;
+}
+
+
+.beskrivning2 {
+    display: flex;
+}
+
+.övrigt {
+    padding-right: 150px;
+}
+
+.hide{
+    display: none;
+}
